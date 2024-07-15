@@ -1,4 +1,4 @@
-# PRODIGY_WD_02 - Prodigy Web Development Internship - Task 03
+![image](https://github.com/user-attachments/assets/4b0ff68b-ec17-4f7b-b36f-e2f0190bff76)# PRODIGY_WD_02 - Prodigy Web Development Internship - Task 02
 
 <h2>HTML</h2>
 
@@ -38,13 +38,13 @@
 
 <h4>Functionality:</h4>
 
-<b>Start:</b> Starts the timer, updates the display every 10ms.<br>
-<b>Stop:</b> Stops the timer.<br>
-<b>Lap:</b> Records lap times.<br>
-<b>Reset:</b> Resets the timer and clears laps.<br>
-<b>Timer Logic:</b><br>
-- Manages hours, minutes, seconds, and milliseconds.<br>
-- zeroPad function to format time display.<br>
+<b>Start:</b> Starts the timer, updates the display every 10ms.<br><br>
+<b>Stop:</b> Stops the timer.<br><br>
+<b>Lap:</b> Records lap times.<br><br>
+<b>Reset:</b> Resets the timer and clears laps.<br><br>
+<b>Timer Logic:</b><br><br>
+- Manages hours, minutes, seconds, and milliseconds.<br><br>
+- zeroPad function to format time display.<br><br>
 
 <h4>Event Listeners:</h4>
 
