@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #655a7c;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.toptitle {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 25px;
+}
+
+.container {
+    background: #ab92bf;
+    padding: 25px;
+    width: 450px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#stopwatch {
+    background: #a88b1a;
+    font-size: 55px;
+    color: black;
+    padding: 20px;
+}
+
+.lapbuttons {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.lapbuttons button {
+    height: 45px;
+    width: 25%;
+    border-radius: 5px;
+    background: #2D849C;
+    border: none;
+    outline: none;
+    padding: 5px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#laps {
+    height: 200px;
+    padding: 10px;
+    overflow: auto;
+    background: #a88b1a;
+    font-weight: bold;
+}
+
+#laps li {
+    font-size: 22px;
+    padding: 10px;
+}
+
+#reset,
+#stop {
+    background: red;
+}
