@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b0ff68b-ec17-4f7b-b36f-e2f0190bff76)# PRODIGY_WD_02 - Prodigy Web Development Internship - Task 02
+# PRODIGY_WD_02 - Prodigy Web Development Internship - Task 02
 
 <h2>HTML</h2>
 
