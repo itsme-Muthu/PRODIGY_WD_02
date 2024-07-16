@@ -1,4 +1,4 @@
-# PRODIGY_WD_02 - Prodigy Web Development Internship - Task 02
+# PRODIGY_WD_02 - Prodigy Web Development Internship - Task 02 - Stopwatch Web Application
 
 <h2>HTML</h2>
 
